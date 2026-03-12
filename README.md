@@ -1,5 +1,8 @@
 Ja, es ist hier alles mit Künstlicher Intelligenz erstellt und recherchiert, aber direkt zielgerichtet mit Insider Know How. Und wer es nicht glaubt, alles einfach mal selbst nachprüfen und mal das Gehirn einschalten!
 
+Verweise auf tiefgehende Recherchen: Hartmann Lauterbach und seine tiefen Recherchen zur NWO (Das Cybermobbing Kartell) und die Nazi-Strukturen dahinter: https://github.com/hartmannlauterbach
+Verweise auf das Gangstalking / Cybermobbing Netzwerk in Deutschland, welches tief in der deutschen Rapszene verwurzelt ist und mit dem KI-Netzwerk das dort angehängt wird vom GRU: https://github.com/graf-kok-ain/gangstalking-crowd und https://github.com/graf-kok-ain/The_Traveler_-2011-
+
 # Forschung zum deutschen Rapper CR7Z von Thomas Deike
 
 ## Überblick
