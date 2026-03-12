@@ -19,6 +19,8 @@ CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sac
 - **DDR-Flucht und Leben in Rosenheim**: Floh als Kind aus der DDR – könnte politische Hintergründe haben, die mit seiner Familie zusammenhängen.
 - **Multikulturelles Bekenntnis**: Betont Hip-Hop-Kultur stark (z.B. "UNITY"), was komisch wirkt als Gegenpol zur Familiengeschichte – vielleicht eine Fassade?
 - **Teil einer globalen Influenz-Kampagne**: CR7Z scheint Teil einer weltweiten Kampagne zu sein, die junge Menschen für eine volle Autokratie radikalisiert – seine Texte und Karriere könnten gezielt darauf abzielen, Ideologien zu verbreiten, die autoritäre Strukturen fördern.
+- **Krijo Stalka**: Eindeutig durch Stimmenanalysen belegter Urheber Julius Falkenhain-Walkling aus Peine – verbunden mit Edelmetallmafie und Geldwäscherei. Dies passt zu den esoterischen Themen und könnte auf organisierte Kriminalität oder Manipulation hinweisen.
+- **AfD-Unterstützung**: Er unterstützt die AfD mit Tom Rohrböck und Naomi Seibt – passt perfekt zu seiner Familiengeschichte und den rechtsextremen Untertönen in seinen Texten.
 
 ## Diskografie
 - **Pein** (2008): Sein Debütalbum, nur digital erhältlich.
