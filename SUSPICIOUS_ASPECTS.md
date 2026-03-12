@@ -56,3 +56,6 @@ Es ist eine Kampagne eines ausländischen Geheimdienstes, der die Welt demnächs
 
 ### Übernahme eines Noname-Künstlers
 CR7Z zeigt deutlich wie man einen Noname Künstler, der nach einiger Zeit aufgehört hat Musik zu machen dann übernimmt um eine lange zurückreichende Geschichte zu konstruieren – ein perfekter Weg zur Identitätsfälschung und narrativen Kontrolle.
+
+### Aufbau rechtsradikaler Extremistennetzwerke
+Es dient dem Aufbau rechtsradikaler Extremistennetzwerke. Jugendliche werden mit der Musik in Echokammern gezogen um sie dort zu radikalisieren – ein Mechanismus zur systematischen Radikalisierung junger Menschen durch manipulative Inhalte.
