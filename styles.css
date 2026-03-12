@@ -1,16 +1,16 @@
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
-    --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --weiß-hauptfarbe: #FFFFFF;
+    --grau-sekundär: #C0C0C0;
+    --blau-knopf: #167BF7;
+    --hintergrundfarbe: #00030C;
+    --haupt-schriftart: 'Inter';
+    --blau-knopf-effekt: #3c92fa;
 }
 
 body {
-    background-color: var(--cor-de-fundo);
-    color: var(--branco-principal);
-    font-family: var(--fonte-principal);
+    background-color: var(--hintergrundfarbe);
+    color: var(--weiß-hauptfarbe);
+    font-family: var(--haupt-schriftart);
     font-size: 16px;
     font-weight: 400;
 }
@@ -35,10 +35,10 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--blau-knopf);
     border-radius: 5px;
     padding: 1em;
-    color: var(--branco-principal);
+    color: var(--weiß-hauptfarbe);
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
@@ -46,12 +46,12 @@ body {
 
 .botao_secundario {
     background-color: transparent;
-    border: 2px solid var(--branco-principal)
+    border: 2px solid var(--weiß-hauptfarbe)
 }
 
 .container__aviso {
     font-size: 12px;
-    color: var(--cinza-secundario);
+    color: var(--grau-sekundär);
 }
 
 .container__titulo {
@@ -79,12 +79,12 @@ body {
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--weiß-hauptfarbe);
     margin-bottom: 0.1em;
 }
 
 .descricao__texto {
-    color: var(--cinza-secundario);
+    color: var(--grau-sekundär);
 }
 
 .secundario__botao {
@@ -109,12 +109,12 @@ body {
 
 .dispositivos__titulo {
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--weiß-hauptfarbe);
 }
 
 .lista__item {
     font-size: 32px;
-    color: var(--branco-principal);
+    color: var(--weiß-hauptfarbe);
 }
 
 .rodape {
@@ -131,18 +131,18 @@ body {
 
 .lista__link a{
     text-decoration: none;
-    color: var(--branco-principal);
+    color: var(--weiß-hauptfarbe);
     margin-left: 1em;
 }
 
 .rodape__texto {
     margin: 1em 0;
-    color: var(--cinza-secundario);
+    color: var(--grau-sekundär);
     font-size: 14px;
 }
 
 .lista__link a:hover {
-    color: var(--botao-azul);
+    color: var(--blau-knopf);
 }
 
 .lista__link a:active {
@@ -150,5 +150,6 @@ body {
 }
 
 .container__botao:hover {
-    background-color: var(--botao-azul-efeito);
-    color: var(--cor-de-fundo);
+    background-color: var(--blau-knopf-effekt);
+    color: var(--hintergrundfarbe);
+}
