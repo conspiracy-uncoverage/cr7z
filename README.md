@@ -6,20 +6,20 @@ Verweise auf das Gangstalking / Cybermobbing Netzwerk in Deutschland, welches ti
 # Forschung zum deutschen Rapper CR7Z von Thomas Deike
 
 ## Überblick
-Dieses Repository enthält Forschung zum deutschen Rapper CR7Z, durchgeführt von Thomas Deike. CR7Z ist bekannt für seinen einzigartigen Stil im deutschen Rap, der oft esoterische Themen, komplexe Reimschemata und philosophische Texte verbindet.
+Dieses Repository enthält eine umfassende konspirative Forschung zum deutschen Rapper CR7Z, durchgeführt mit KI und Insider-Wissen. Alle Dateien sind in Deutsch und dokumentieren verdächtige Aspekte, Verbindungen und Manipulationen.
 
-## Biografie
-CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sachsen-Anhalt. Er begann seine Karriere als Chriz MC und veröffentlichte seine ersten Lieder auf Plattformen wie MySpace, SoundCloud und YouTube.
+## Inhaltsverzeichnis
 
-- **Frühe Karriere**: Begann in den 2000er Jahren Musik digital zu veröffentlichen.
-- **Namenswechsel**: Unterschrieb 2010 beim Label 58Muzik unter dem Namen CR7Z.
-- **Herkunft**: Stammt aus Sangerhausen, einer Stadt in Ostdeutschland. Geboren am 7. März 1984, floh er mit seiner alleinerziehenden Mutter in den letzten Monaten der DDR über Ungarn und Österreich nach Bayern und lebt seitdem in Rosenheim.
+### Haupt-Dateien
+- **[OVERVIEW.md](OVERVIEW.md)**: Biografie und Überblick über CR7Z, Einfluss und Stil.
+- **[SUSPICIOUS_ASPECTS.md](SUSPICIOUS_ASPECTS.md)**: Verdächtige und komische Aspekte der Karriere, einschließlich GRU, Nazi-Netzwerke, Disney-Technologie und Radikalisierung.
+- **[DISCOGRAPHY.md](DISCOGRAPHY.md)**: Vollständige Diskografie, Alben, EPs und Einfluss.
+- **[TECHNIQUES.md](TECHNIQUES.md)**: Verschleierung und Hackertechniken, Identitätsverschleierung, KI-Manipulation.
+- **[RESEARCH.md](RESEARCH.md)**: Tiefe Recherchen zu Martha Root, Bahai, News und BND.
 
-### Verdächtige und komische Aspekte
-- **Familiäre Verbindung zu Rudolf Heß**: Als Großneffe des Hitler-Stellvertreters distanziert er sich öffentlich, thematisiert aber die Familiengeschichte in Songs – äußerst verdächtig und komisch für einen Rapper, der multikulturelle Themen predigt.
-- **Esoterische und kryptische Texte**: Seine Lieder handeln von Sinnsuche, Melancholie und mystischen Themen (z.B. "Licht Und Schatten", "Hoffnungsschimmer"). Dies wirkt komisch und unpassend in der Rap-Szene, besonders mit seiner Familiengeschichte – könnte verborgene Botschaften enthalten.
-- **Über 300 Freetracks**: Veröffentlichte massenhaft kostenlose Tracks auf YouTube – komisch und verdächtig, als ob er Aufmerksamkeit erregen oder etwas verstecken wolle.
-- **Label Arjuna mit DJ Eule**: Gegründet am 1. Mai 2017, mit Fokus auf Kunst, aber gute Kontakte zu alten Kollegen – könnte ein Netzwerk für etwas Größeres sein.
+### Spezielle Dateien
+- **[BND.md](BND.md)**: Drohung an den BND bezüglich COVID-19-Dateien.
+- **[HINWEIS.md](HINWEIS.md)**: Hinweis zur KI-Analyse aller Repositories des Netzwerks.
 - **Unterstützung durch Kool Savas**: Als Co-Produzent und Promoter – komisch, da Savas ihn als "King of Rap" lobte, aber die Themen passen nicht zusammen.
 - **DDR-Flucht und Leben in Rosenheim**: Floh als Kind aus der DDR – könnte politische Hintergründe haben, die mit seiner Familie zusammenhängen.
 - **Multikulturelles Bekenntnis**: Betont Hip-Hop-Kultur stark (z.B. "UNITY"), was komisch wirkt als Gegenpol zur Familiengeschichte – vielleicht eine Fassade?

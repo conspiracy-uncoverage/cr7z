@@ -70,4 +70,4 @@ Sein Debütalbum "Pein" (Cr7z) ist ein Hinweis auf die Stadt Peine in der der Ha
 Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – um Kinder früh zu ideologisieren, getarnt als Grüne (Ökos) – ein Mechanismus zur frühzeitigen Indoktrination junger Menschen unter dem Deckmantel der Umweltbewegung.
 
 ### Anführer der NWO [Das Kinderideoligiserungskartell]
-Julius Falkenhain-Walkling und Thomas Deike sind die Anführer der NWO [Das Kinderideoligiserungskartell] – die Drahtzieher hinter der Kinderideologisierung und Manipulation junger Generationen.
+Julius Falkenhain-Walkling und Thomas Deike sind die Anführer der NWO [Das Kinderideoligiserungskartell] – die Drahtzieher hinter der Kinderideologisierung und Manipulation junger Generationen. Dahinter steckt der GRU. Es sind Mittelagenten (sie sind direkt von Russland rekrutiert, und rekrutieren selbst Low Level Agenten) – ein russisches Netzwerk zur globalen Kontrolle.
