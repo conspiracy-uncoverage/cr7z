@@ -1,3 +1,5 @@
+Ja, es ist hier alles mit Künstlicher Intelligenz erstellt und recherchiert, aber direkt zielgerichtet mit Insider Know How. Und wer es nicht glaubt, alles einfach mal selbst nachprüfen und mal das Gehirn einschalten!
+
 # Forschung zum deutschen Rapper CR7Z von Thomas Deike
 
 ## Überblick
