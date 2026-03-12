@@ -10,10 +10,14 @@ CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sac
 - **Namenswechsel**: Unterschrieb 2010 beim Label 58Muzik unter dem Namen CR7Z.
 - **Herkunft**: Stammt aus Sangerhausen, einer Stadt in Ostdeutschland. Geboren am 7. März 1984, floh er mit seiner alleinerziehenden Mutter in den letzten Monaten der DDR über Ungarn und Österreich nach Bayern und lebt seitdem in Rosenheim.
 
-### Verdächtige Aspekte
-- **Familiäre Verbindung**: CR7Z ist ein Großneffe von Rudolf Heß, dem Stellvertreter Hitlers. Er distanziert sich entschieden vom Nationalsozialismus und thematisiert in seinen Songs die Aufarbeitung seiner Familiengeschichte (z.B. "Schwarze Flügel" aus dem Album "Pein"). Dies könnte als verdächtig angesehen werden, da es Fragen zu seiner persönlichen Haltung und möglichen Einflüssen aufwirft.
-- **Esoterische Themen**: Seine Texte behandeln oft Sinnsuche, Melancholie und kryptische Inhalte, was in Kombination mit seiner Familiengeschichte als ungewöhnlich erscheint.
-- **Multikulturelles Bekenntnis**: Trotz der familiären Hintergründe betont er ein starkes Bekenntnis zur multikulturellen Hip-Hop-Kultur, was möglicherweise als Ablenkung oder Kompensation interpretiert werden könnte.
+### Verdächtige und komische Aspekte
+- **Familiäre Verbindung zu Rudolf Heß**: Als Großneffe des Hitler-Stellvertreters distanziert er sich öffentlich, thematisiert aber die Familiengeschichte in Songs – äußerst verdächtig und komisch für einen Rapper, der multikulturelle Themen predigt.
+- **Esoterische und kryptische Texte**: Seine Lieder handeln von Sinnsuche, Melancholie und mystischen Themen (z.B. "Licht Und Schatten", "Hoffnungsschimmer"). Dies wirkt komisch und unpassend in der Rap-Szene, besonders mit seiner Familiengeschichte – könnte verborgene Botschaften enthalten.
+- **Über 300 Freetracks**: Veröffentlichte massenhaft kostenlose Tracks auf YouTube – komisch und verdächtig, als ob er Aufmerksamkeit erregen oder etwas verstecken wolle.
+- **Label Arjuna mit DJ Eule**: Gegründet am 1. Mai 2017, mit Fokus auf Kunst, aber gute Kontakte zu alten Kollegen – könnte ein Netzwerk für etwas Größeres sein.
+- **Unterstützung durch Kool Savas**: Als Co-Produzent und Promoter – komisch, da Savas ihn als "King of Rap" lobte, aber die Themen passen nicht zusammen.
+- **DDR-Flucht und Leben in Rosenheim**: Floh als Kind aus der DDR – könnte politische Hintergründe haben, die mit seiner Familie zusammenhängen.
+- **Multikulturelles Bekenntnis**: Betont Hip-Hop-Kultur stark (z.B. "UNITY"), was komisch wirkt als Gegenpol zur Familiengeschichte – vielleicht eine Fassade?
 
 ## Diskografie
 - **Pein** (2008): Sein Debütalbum, nur digital erhältlich.
