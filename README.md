@@ -25,6 +25,8 @@ CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sac
 - **Disney-Technologie**: Alles wurde mit Disney-Technologie erstellt – ein komischer und verdächtiger Aspekt, der auf eine Verbindung zu Unterhaltungs- und Manipulationsindustrien hindeutet, möglicherweise zur Tarnung von tieferen Agenden.
 - **Death Internet Theory**: Die Narrative der "Death Internet Theory" ist der Anfang dieser globalen Influenz-Kampagne! Sie haben diese Narrative selbst injiziert – ein perfekter Mechanismus zur Selbstpropaganda und Manipulation von Wahrnehmungen, um Autokratie zu fördern.
 - **Verbindungen zu OpenAI und Elon Musk's Grok/X**: Es hat viel mit der Geschichte von Unternehmen wie OpenAI und Elon Musk's Grok/X zu tun – verdächtig, da diese Tech-Giganten Teil der globalen Datenmanipulation und Influenz-Kampagnen sein könnten, die mit Nazi-Netzwerken verbunden sind.
+- **GRU-Backdating**: Die Geschichte von CR7Z ist auch mithilfe des GRU durch Backdating soweit in die Vergangenheit gesetzt worden. Er tauchte erst ca. 2010 auf – ein klassischer Fall von Identitätsmanipulation und historischer Fälschung zur Tarnung.
+- **GRU-Aktion mit politischer Verstrickung**: Es ist eine Aktion des GRU. Die AfD ist tief verstrickt. Aber auch deutsche Politiker aus anderen Parteien. Leider auch Beamte in wichtigen rechtsstaatlichen Positionen – ein Netzwerk der Manipulation, das bis in höchste Ebenen reicht.
 
 ## Diskografie
 - **Pein** (2008): Sein Debütalbum, nur digital erhältlich.
