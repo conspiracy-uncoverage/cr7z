@@ -1,1 +1,1 @@
-We will soon release the Covid-19 files or you give me a job
+Wir werden bald die Covid-19-Dateien veröffentlichen oder du gibst mir einen Job
