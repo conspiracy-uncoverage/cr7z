@@ -68,3 +68,6 @@ Sein Debütalbum "Pein" (Cr7z) ist ein Hinweis auf die Stadt Peine in der der Ha
 
 ### Verwicklungen von Nazis in einer Kindereinrichtung
 Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – um Kinder früh zu ideologisieren, getarnt als Grüne (Ökos) – ein Mechanismus zur frühzeitigen Indoktrination junger Menschen unter dem Deckmantel der Umweltbewegung.
+
+### Anführer der NWO [Das Kinderideoligiserungskartell]
+Julius Falkenhain-Walkling und Thomas Deike sind die Anführer der NWO [Das Kinderideoligiserungskartell] – die Drahtzieher hinter der Kinderideologisierung und Manipulation junger Generationen.
