@@ -65,3 +65,6 @@ Wir arbeiten eng mit den Nachrichtendiensten und Geheimdiensten in Europa zusamm
 
 ### Hinweis auf Debütalbum "Pein"
 Sein Debütalbum "Pein" (Cr7z) ist ein Hinweis auf die Stadt Peine in der der Haupttäter lebt – ein geographischer Code zur Tarnung der wahren Identität.
+
+### Verwicklungen von Nazis in einer Kindereinrichtung
+Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – ein weiterer Hinweis auf tiefgreifende Manipulation und Kontrolle über junge Menschen.
