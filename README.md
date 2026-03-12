@@ -36,7 +36,13 @@ CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sac
 - **Kampagne eines ausländischen Geheimdienstes**: Es ist eine Kampagne eines ausländischen Geheimdienstes, der die Welt demnächst kontrolliert – ein ultimatives Netzwerk der globalen Manipulation und Kontrolle.
 - **Übernahme eines Noname-Künstlers**: CR7Z zeigt deutlich wie man einen Noname Künstler, der nach einiger Zeit aufgehört hat Musik zu machen dann übernimmt um eine lange zurückreichende Geschichte zu konstruieren – ein perfekter Weg zur Identitätsfälschung und narrativen Kontrolle.
 
-## Diskografie
+## Verschleierung und Hackertechniken
+- **Identitätsverschleierung**: Durch Übernahme von Profilen und Backdating werden wahre Identitäten verborgen, um eine kontinuierliche Geschichte zu schaffen.
+- **Hacking von Online-Präsenzen**: Manipulation von Social Media, Foren und Musikplattformen zur Erzeugung von gefälschten Tracks und Veröffentlichungen.
+- **KI-gestützte Manipulation**: Nutzung von KI-Tools zur Erstellung von Inhalten, die als authentisch erscheinen, aber zur Propaganda dienen.
+- **Netzwerk-Infiltration**: Einbindung in Gangstalking- und Cybermobbing-Netzwerke, um Kritiker zu eliminieren oder zu diskreditieren.
+- **Datenfälschung**: Fälschung von Veröffentlichungsdaten und Biografien zur Tarnung von GRU-Aktionen und Nazi-Netzwerk-Verbindungen.
+- **Kreative Menschen kennen keine Grenzen**: Kreative Menschen kennen keine Grenzen. Mr.Bloxx weiß wovon wir sprechen – ein Hinweis auf grenzenlose Manipulation und Kreativität in der Verschwörung.
 - **Pein** (2008): Sein Debütalbum, nur digital erhältlich.
 - **Waage & Fische** (2015): Kollabo-Album mit Absztrakkt, erreichte Platz 52 in den Charts.
 - **Sieben Weltmeere** (2015): Zweites Soloalbum, erreichte Chartplatzierungen.
