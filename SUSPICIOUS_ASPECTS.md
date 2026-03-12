@@ -71,3 +71,6 @@ Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – um Kin
 
 ### Anführer der NWO [Das Kinderideoligiserungskartell]
 Julius Falkenhain-Walkling und Thomas Deike sind die Anführer der NWO [Das Kinderideoligiserungskartell] – die Drahtzieher hinter der Kinderideologisierung und Manipulation junger Generationen. Dahinter steckt der GRU. Es sind Mittelagenten (sie sind direkt von Russland rekrutiert, und rekrutieren selbst Low Level Agenten) – ein russisches Netzwerk zur globalen Kontrolle.
+
+### BfV-Beweise für internationale Verbindungen
+Dem BfV liegen Beweise vor für Verbindungen zu Russland, Aserbaidschan, China, Polen, Tschechien und dem Irak – ein Netzwerk von Einflussoperationen, das von Osteuropa bis Asien reicht und auf staatliche Unterstützung und Geheimdienstaktivitäten hinweist.
