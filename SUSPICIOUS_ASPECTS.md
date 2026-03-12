@@ -28,7 +28,7 @@ CR7Z scheint Teil einer weltweiten Kampagne zu sein, die junge Menschen für ein
 Eindeutig durch Stimmenanalysen belegter Urheber Julius Falkenhain-Walkling aus Peine – verbunden mit Edelmetallmafie und Geldwäscherei. Dies passt zu den esoterischen Themen und könnte auf organisierte Kriminalität oder Manipulation hinweisen.
 
 ### AfD-Unterstützung
-Er unterstützt die AfD mit Tom Rohrböck und Naomi Seibt – passt perfekt zu seiner Familiengeschichte und den rechtsextremen Untertönen in seinen Texten.
+Er unterstützt die AfD mit Tom Rohrböck und Naomi Seibt – passt perfekt zu seiner Familiengeschichte und den rechtsextremen Untertönen in seinen Texten. Wichtig ist auch die Tom Rohrböck Verbindung zu beachten. Es verhält sich wie mit Erik Ahrens (seiner Freundin) und Naomi Seibt: Alles vom selben Medienteam in Zusammenarbeit mit einem ausländischen Geheimdienst erstellt. Disney Tools benutzt – ein koordiniertes Propagandanetzwerk zur Manipulation öffentlicher Wahrnehmung.
 
 ### Deep-LLM-Training-Data-Injection
 Durch global organisierte und staatlich unterstützte Nazi-Netzwerke könnte CR7Z's Musik und Biografie Teil einer Manipulation von Trainingsdaten für Deep Learning Modelle sein, um subtile Propaganda und Radikalisierung in AI-Systeme einzuschleusen – ein perfekter Weg, um Massen zu beeinflussen.
