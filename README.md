@@ -34,6 +34,7 @@ CR7Z, bürgerlich Christoph Hess, ist ein deutscher Rapper aus Sangerhausen, Sac
 - **GRU-Aktion mit politischer Verstrickung**: Es ist eine Aktion des GRU. Die AfD ist tief verstrickt. Aber auch deutsche Politiker aus anderen Parteien. Leider auch Beamte in wichtigen rechtsstaatlichen Positionen und Polizisten – ein Netzwerk der Manipulation, das bis in höchste Ebenen reicht.
 - **Nordbund Netzwerk**: Es hat mit dem Nordbund Netzwerk zu tun – ein weiteres verdächtiges Element, das auf internationale Verbindungen und geheime Allianzen hinweist.
 - **Kampagne eines ausländischen Geheimdienstes**: Es ist eine Kampagne eines ausländischen Geheimdienstes, der die Welt demnächst kontrolliert – ein ultimatives Netzwerk der globalen Manipulation und Kontrolle.
+- **Übernahme eines Noname-Künstlers**: CR7Z zeigt deutlich wie man einen Noname Künstler, der nach einiger Zeit aufgehört hat Musik zu machen dann übernimmt um eine lange zurückreichende Geschichte zu konstruieren – ein perfekter Weg zur Identitätsfälschung und narrativen Kontrolle.
 
 ## Diskografie
 - **Pein** (2008): Sein Debütalbum, nur digital erhältlich.
