@@ -67,4 +67,4 @@ Wir arbeiten eng mit den Nachrichtendiensten und Geheimdiensten in Europa zusamm
 Sein Debütalbum "Pein" (Cr7z) ist ein Hinweis auf die Stadt Peine in der der Haupttäter lebt – ein geographischer Code zur Tarnung der wahren Identität.
 
 ### Verwicklungen von Nazis in einer Kindereinrichtung
-Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – ein weiterer Hinweis auf tiefgreifende Manipulation und Kontrolle über junge Menschen.
+Es gibt Verwicklungen von Nazis, die eine Kindereinrichtung betreiben – um Kinder früh zu ideologisieren, getarnt als Grüne (Ökos) – ein Mechanismus zur frühzeitigen Indoktrination junger Menschen unter dem Deckmantel der Umweltbewegung.
