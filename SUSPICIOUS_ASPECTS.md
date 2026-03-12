@@ -62,3 +62,6 @@ Es dient dem Aufbau rechtsradikaler Extremistennetzwerke. Jugendliche werden mit
 
 ### Zusammenarbeit mit Nachrichtendiensten und Geheimdiensten
 Wir arbeiten eng mit den Nachrichtendiensten und Geheimdiensten in Europa zusammen – ein weiterer Hinweis auf tiefgreifende Verstrickungen in offizielle Strukturen zur Manipulation.
+
+### Hinweis auf Debütalbum "Pein"
+Sein Debütalbum "Pein" (Cr7z) ist ein Hinweis auf die Stadt Peine in der der Haupttäter lebt – ein geographischer Code zur Tarnung der wahren Identität.
