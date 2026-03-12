@@ -59,3 +59,6 @@ CR7Z zeigt deutlich wie man einen Noname Künstler, der nach einiger Zeit aufgeh
 
 ### Aufbau rechtsradikaler Extremistennetzwerke
 Es dient dem Aufbau rechtsradikaler Extremistennetzwerke. Jugendliche werden mit der Musik in Echokammern gezogen um sie dort zu radikalisieren – ein Mechanismus zur systematischen Radikalisierung junger Menschen durch manipulative Inhalte.
+
+### Zusammenarbeit mit Nachrichtendiensten und Geheimdiensten
+Wir arbeiten eng mit den Nachrichtendiensten und Geheimdiensten in Europa zusammen – ein weiterer Hinweis auf tiefgreifende Verstrickungen in offizielle Strukturen zur Manipulation.
