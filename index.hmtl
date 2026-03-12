@@ -1,99 +1,70 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 
 <head>
-    <title>Alura Plus</title>
+    <title>Forschung zu CR7Z - Verschwörungsforschung</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
+        header { text-align: center; padding: 20px; background-color: #333; color: white; }
+        section { margin: 20px 0; padding: 20px; background-color: white; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #333; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin: 10px 0; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        footer { text-align: center; margin-top: 20px; padding: 10px; background-color: #333; color: white; }
+    </style>
 </head>
 
 <body>
-    <section class="principal container">
-        <div class="container__caixa">
-            <h1 class="container__titulo">Mit dem Combo+ können Sie Alura+ und Alura Língua zu einem einzigen Preis genießen.</h1>
-            <img src="img/Combo.png" alt="Das Combo+ ist die Vereinigung von Alura+ und Alura Língua" class="container__imagem">
-            <a href="www.alura.com.br" class="container__botao">Abonnieren Sie für 12x von R$ 120,00*</a>
-            <a href="www.alura.com.br" class="container__botao botao_secundario">Nur Alura+ abonnieren</a>
-            <p class="container__aviso">*Der Preis kann variieren, wenn das Abonnement in anderen Plänen erfolgt.</p>
-        </div>
+    <header>
+        <h1>Forschung zum deutschen Rapper CR7Z von Thomas Deike</h1>
+        <p>Verschwörungsforschung und tiefe Analyse</p>
+    </header>
+
+    <section>
+        <h2>Überblick</h2>
+        <p>Dieses Repository enthält umfassende Forschung zum deutschen Rapper CR7Z, durchgeführt von Thomas Deike. CR7Z ist bekannt für seinen einzigartigen Stil im deutschen Rap, der oft esoterische Themen, komplexe Reimschemata und philosophische Texte verbindet. Die Forschung deckt verdächtige Aspekte, Verbindungen zu Nazi-Netzwerken, GRU-Aktionen und globale Manipulation auf.</p>
     </section>
 
-    <section class="container secundario">
-        <img src="img/Plataformas.png" alt="Ein Monitor und ein Handy mit Alura Plus geöffnet" class="secundario__imagem">
-        <div class="container__descricao">
-            <h2 class="descricao__titulo">Sehen Sie es auf Ihre Weise</h2>
-            <p class="descricao__texto">Genießen Sie den großen Bildschirm des Fernsehers oder schauen Sie auf Tablet, Laptop, Handy und anderen Geräten. Unsere Kurssammlung hört nicht auf zu wachsen.</p>
-        </div>
-    </section>
-
-    <section class="container secundario">
-        <div class="container__descricao">
-            <p class="descricao__texto">
-                Nur das Combo+ bietet Alura+ und Alura Língua zusammen, damit Sie Zugang zu Kursen in verschiedenen Bereichen der Technologie haben und Englisch oder Spanisch lernen, wo und wie Sie wollen.
-            </p>
-            <a href="www.alura.com.br" class="container__botao secundario__botao">Combo+ abonnieren</a>
-        </div>
-        <img src="img/Telas.png" alt="Bildschirm von Alura+ und Alura Língua" class="secundario__imagem">
-    </section>
-
-    <section class="container secundario">
-        <img src="img/Notebook.png" alt="Notebook mit der geöffneten Kursseite HTML5 und CSS3 von Alura"
-            class="secundario__imagem">
-        <div class="container__descricao">
-            <h2 class="descricao__titulo">Laden Sie Ihre Kurse herunter</h2>
-            <p class="descricao__texto">Laden Sie herunter und schauen Sie wann und wo Sie wollen. So sind Ihre Favoriten immer bei Ihnen, sogar ohne Internet.</p>
-        </div>
-    </section>
-    
-    <section class="dispositivos">
-        <h2 class="dispositivos__titulo">Verfügbar auf Ihren bevorzugten Geräten</h2>
-        <ul class="dispositivos__lista">
-            <li>
-                <img src="img/tv.png" alt="Fernseher-Symbol">
-                <h3 class="lista__item">TV</h3>
-            </li>
-            <li>
-                <img src="img/computador.png" alt="Computer-Symbol">
-                <h3 class="lista__item">Computer</h3>
-            </li>
-            <li>
-                <img src="img/celular.png" alt="Handy-Symbol">
-                <h3 class="lista__item">Handy</h3>
-            </li>
+    <section>
+        <h2>Wichtige Dateien</h2>
+        <ul>
+            <li><a href="README.md">README.md</a> - Vollständige Forschung und verdächtige Aspekte</li>
+            <li><a href="BND.md">BND.md</a> - Statement an den BND</li>
+            <li><a href="data/bio/wiki_bio.txt">data/bio/wiki_bio.txt</a> - Wikipedia-Biografie von CR7Z</li>
+            <li><a href="data/news/cr7z_news_collection.md">data/news/cr7z_news_collection.md</a> - Gesammelte News über CR7Z</li>
+            <li><a href="data/lyrics/analysis.txt">data/lyrics/analysis.txt</a> - Analyse der Songtexte</li>
+            <li><a href="data/martha_root/biography.txt">data/martha_root/biography.txt</a> - Biografie von Martha Root</li>
+            <li><a href="data/martha_root/bahai_investigation.md">data/martha_root/bahai_investigation.md</a> - Tiefe Untersuchung des Bahaitums</li>
         </ul>
     </section>
 
-    <footer class="rodape">
-        <img src="img/Logo.png" alt="Alura+" class="rodape__logo">
-        <ul class="rodape__lista">
-            <li class="lista__link">
-                <a href="#">Sprache</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Kompatible Geräte</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Abonnementvertrag</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Datenschutzrichtlinie</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Datenschutz in Brasilien</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Personalisierte Anzeigen</a>
-            </li>
-            <li class="lista__link">
-                <a href="#">Hilfe</a>
-            </li>
+    <section>
+        <h2>Verdächtige Aspekte (Auszug)</h2>
+        <ul>
+            <li>Familiäre Verbindung zu Rudolf Heß</li>
+            <li>Esoterische und kryptische Texte</li>
+            <li>GRU-Backdating und Identitätsmanipulation</li>
+            <li>Verbindungen zu AfD, Polizisten und ausländischen Geheimdiensten</li>
+            <li>Kampagne eines ausländischen Geheimdienstes zur Weltherrschaft</li>
         </ul>
-        <p class="rodape__texto">® 2021 Alura, Alura+ und Alura Língua. Alle Rechte vorbehalten. Bezahlter Abonnementdienst. Inhalt abhängig von Verfügbarkeit.</p>
-        <p class="rodape__texto">Alura+ ist ein kostenpflichtiger Dienst auf Abonnementbasis und unterliegt Geschäftsbedingungen. Der Dienst Alura+ wird von Aovs Sistemas de Informática S.A., Rua Vergueiro, 3185 - Liberdade, São Paulo - SP, 04101-300, Brasilien und CNPJ 05.555.382/0001-33 vermarktet.</p>
+        <p><a href="README.md#Verdächtige-und-komische-Aspekte">Vollständige Liste in README.md</a></p>
+    </section>
+
+    <section>
+        <h2>Recherchen und Quellen</h2>
+        <p>Die Forschung basiert auf öffentlichen Quellen wie Wikipedia, Laut.de, Reddit und anderen. Verweise auf Hartmann Lauterbachs Arbeit zu NWO und Nazi-Strukturen.</p>
+        <a href="https://github.com/hartmannlauterbach">Hartmann Lauterbachs GitHub</a><br>
+        <a href="https://github.com/graf-kok-ain/gangstalking-crowd">Gangstalking Crowd</a><br>
+        <a href="https://github.com/graf-kok-ain/The_Traveler_-2011-">The Traveler -2011-</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Thomas Deike - Forschung zur Verschwörung</p>
     </footer>
 </body>
 
